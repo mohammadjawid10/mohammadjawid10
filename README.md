@@ -31,6 +31,16 @@ Experience the ultimate messaging platform with our WhatsApp clone built using F
 
 A modern chat app build with Flutter and Firebase with high capabilities every chat app needs.
 
+- 🔭 I’m currently working on Mobile App Development [Flutter]
+- 🌱 I’m currently learning Web Development
+- 👯 I’m looking to collaborate on open source projects
+- 🤔 I’m looking for help with 
+- 💬 Ask me about Flutter App Dvelopment
+- 📫 How to reach me: [LinkedIn] https://www.linkedin.com/in/mohammad-jawid-808b422a0/ 
+- 😄 Pronouns: Him
+- ⚡ Fun fact: Uploading...
+-->
+
 ## 🌈 Interests
 
 - Exploring the latest tech trends and frameworks
@@ -40,24 +50,13 @@ A modern chat app build with Flutter and Firebase with high capabilities every c
 
 ## 🌐 Connect with Me
 
-- 📬 Drop me an email at [your.email@example.com](mailto:your.email@example.com)
-- 🐦 Tweet me [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
-- 💼 Connect with me on [LinkedIn](https://www.linkedin.com/in/yourlinkedinprofile)
+- 📬 I create videos at: https://www.youtube.com/@codeheadq 
+- 🐦 I get projects at: https://www.upwork.com/freelancers/~01834888c6155f8aea
+- 💼 Connect with me on https://www.linkedin.com/in/mohammad-jawid-808b422a0/
 
 Let's build something extraordinary together! Happy coding! 🚀✨
 
 
-
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=blue)
-
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=yellow)
