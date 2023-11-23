@@ -11,11 +11,11 @@ Hey there! Welcome to my coding playground! I'm a tech enthusiast with a passion
 
 ## 💻 Skills & Tools
 
-- **Languages:** JavaScript (React, Node.js), Python, HTML, CSS
-- **Frameworks:** Flutter (Dart)
-- **Databases:** MongoDB, MySQL, Floor
-- **Tools:** VS Code, Git, Docker
-- **DevOps:** CI/CD pipelines, Heroku, Netlify
+- **Languages:** Python, JavsScript, HTML, CSS
+- **Frameworks:** Flutter, Django, Flask
+- **Databases:** Firebase, MySQL, Floor
+- **Tools:** VS Code, Git
+- **DevOps:** CI/CD pipelines, Heroku
 
 ## 🌟 Projects
 
@@ -27,7 +27,7 @@ Revolutionize note-taking with Color Bliss! Quickly jot down ideas and to-dos in
 
 Experience the ultimate messaging platform with our WhatsApp clone built using Flutter and powered by Firebase! 📱✨
 
-### [Chat Sphere](https://github.com/yourusername/PixelMaster)
+### [Chat Sphere]((https://github.com/yourusername/PixelMaster))
 
 A modern chat app build with Flutter and Firebase with high capabilities every chat app needs.
 
@@ -54,8 +54,8 @@ Let's build something extraordinary together! Happy coding! 🚀✨
 - 📫 How to reach me: [LinkedIn] https://www.linkedin.com/in/mohammad-jawid-808b422a0/ 
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Uploading...
--->
 
+## Badges:
 
 ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white)
