@@ -19,23 +19,23 @@ Hey there! Welcome to my coding playground! I'm a tech enthusiast with a passion
 
 ## 🌟 Projects
 
-### [Project 1: FancyName](https://github.com/yourusername/FancyName)
+### [Color Notes]([https://github.com/yourusername/FancyName](https://github.com/mohammadjawid10/Color-Notes))
 
-A magical app that transforms ordinary names into extraordinary ones! ✨🦄
+Revolutionize note-taking with Color Bliss! Quickly jot down ideas and to-dos in a burst of delightful colors. Stay organized, boost creativity, and infuse joy into every note. Download now for a world where your thoughts bloom in vibrant hues! 🌼🎨
 
-### [Project 2: CodeSymphony](https://github.com/yourusername/CodeSymphony)
+### [WhatsApp]([https://github.com/yourusername/CodeSymphony](https://github.com/mohammadjawid10/WhatsApp))
 
-Collaborative coding like you've never experienced before! 🎻🚀
+Experience the ultimate messaging platform with our WhatsApp clone built using Flutter and powered by Firebase! 📱✨
 
-### [Project 3: PixelMaster](https://github.com/yourusername/PixelMaster)
+### [Chat Sphere](https://github.com/yourusername/PixelMaster)
 
-An AI-powered tool that turns your doodles into masterpieces! 🎨🤖
+A modern chat app build with Flutter and Firebase with high capabilities every chat app needs.
 
 ## 🌈 Interests
 
 - Exploring the latest tech trends and frameworks
 - Solving coding puzzles that make my brain do somersaults 🤸‍♂️
-- Attending virtual coding meetups and conferences
+- Playing sports and sometime video games
 - Building side projects that might change the world (or at least make someone smile 😊)
 
 ## 🌐 Connect with Me
