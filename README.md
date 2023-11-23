@@ -48,7 +48,8 @@ Let's build something extraordinary together! Happy coding! 🚀✨
 
 
 
-![<Flutter>](https://img.shields.io/badge/<Badge Flutter>-<Background #02569B>?style=for-the-badge&logo=<Icon Flutter>&logoColor=<Logo #02569B>)
+![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+![flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=Flutter&logoColor=blue)]
 
 
 - 🔭 I’m currently working on ...
